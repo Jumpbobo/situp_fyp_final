@@ -1,3 +1,3 @@
-# situp_fyp_final
+how to test
 
-use Android studio, open "situp_fyp_final/android/vision-quickstar
+use Android studio, open "situp_final/android/vision-quickstar
